@@ -8,9 +8,6 @@
 // //     println!("Hello World From Main Package");
 // // }
 
-// Batch 02 IOT section 01(9 to 12)
-// www.tiny.cc/IOTGS1
-
 // // use iot_io::read_inputs as io;
 // fn main(){
 //     println!("Enter the name");
